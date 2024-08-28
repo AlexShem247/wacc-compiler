@@ -12,5 +12,7 @@ wacc-compiler
 /*.s
 /exit_code.txt
 /temp*
+out/
+META-INF/
 
 .attach_pid*
